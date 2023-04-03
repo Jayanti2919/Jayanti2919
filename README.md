@@ -5,7 +5,7 @@
 ## About Me:
 
 - Pursuing B.Tech in CSE (2021-2025)
-- Interested in ML 
+- Interested in ML and Web Development
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayanti2919&theme=blueberry_duo)](https://git.io/streak-stats)
