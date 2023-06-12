@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+
+
+[![Jayanti2919's GitHub | Languages Over Time](https://stats.quine.sh/Jayanti2919/languages-over-time?theme=dark)](https://quine.sh)
 </div>
 
 ## About Me:
