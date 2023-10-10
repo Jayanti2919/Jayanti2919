@@ -9,7 +9,7 @@
 <div id="header">
   
   
-[![Jayanti2919's GitHub | Languages Over Time](https://stats.quine.sh/Jayanti2919/languages-over-time?theme=dark)](https://quine.sh)
+[![An image of @jayanti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanti)](https://holopin.io/@jayanti)
 </div>
 
 
