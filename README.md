@@ -1,6 +1,7 @@
 ## About Me:
 
-- Pursuing B.Tech in CSE (2021-2025) at Kalinga Institute of Industrial Technology
+- Software Engineer at Microsoft
+- Completed B.Tech in CSE (2021-2025) at Kalinga Institute of Industrial Technology
 - Interested in Web Development
 
 
